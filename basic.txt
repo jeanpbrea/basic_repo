@@ -1,2 +1,3 @@
 Name: Jeanp Brea
 Becoming a developer!
+Master HTML, Master CSS and the Javascript
